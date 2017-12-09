@@ -1,0 +1,22 @@
+Google Search untuk Android Kini Bisa Cari Dokumen di Drive
+ Aplikasi pencarian Google kini diperbarui dengan fitur untuk mempermudah pengguna Android mencari dokumen di Google Drive.
+
+
+
+Dilansir dari Phone Arena, aplikasi pencarian di Android akan mengindeks file dan folder Google Drive dengan bantuan Firebase App Indexing.
+
+
+
+Pengguna akan menemukan dokumen dari Google Drive di laman mereka.
+
+
+
+Bila ingin  mencari dokumen yang lebih spesifik, pilih tab "In Apps" untuk melihat file dari Drive yang mungkin sesuai dengan pencarian.
+
+
+
+Pengguna akan dapat memilih aplikasi mana untuk membuka dokumen tersebut.
+
+
+
+Untuk merasakan fitur baru tersebut, pengguna harus mengundur versi terbaru Google Drive di Play Store. Bila fitur itu belum muncul setelah memperbarui Drive, tunggu hingga Google membukanya.

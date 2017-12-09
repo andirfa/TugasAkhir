@@ -1,0 +1,14 @@
+Saksikan Video di Linimasa Facebook Bakal Bikin Kaget
+
+Siap-siaplah terkejut apabila menggulir linimasa di Facebook sambil menyalakan speaker atau mengenakan headphone, apalagi kalau volumenya disetel kencang.
+Ini karena pengelola jejaring sosial yang bersangkutan baru saja mengumumkan kebijakan baru terkait pemutaran video di timeline (linimasa).
+Sebelumnya, video hanya diputar secara otomatis tanpa suara. Penguna mesti meng-klik window video untuk mengeluarkan audio.
+Nantinya, video di Facebook akan diputar secara otomatis lengkap dengan suara begitu dijumpai oleh pengguna di linimasa.
+"Dengan semakin banyaknya pengguna yang menonton video di ponsel, mereka juga berharap mendengar suara saat tombol volume perangkat dinyalakan," sebut Facebook mengenai alasan di balik kebijakan baru tersebut.
+Untuk mengurangi rasa kaget yang bisa muncul, audio dari autoplay video ini akan diputar secara perlahan (fade-in).
+Suara pun akan menghilang perlahan (fade out) begitu pengguna menggulir timeline sehingga melewati video.
+Ada juga beberapa kondisi di mana video tetap hanya akan diputar tanpa suara, salah satunya ketika ponsel sedang berada dalam silent mode.
+Pilihan untuk mematikan autoplay suara dalam video juga bisa diakses dalam menu settings.
+Kebijakan baru Facebook soal pemutaran video dengan suara ini akan diberlakukan secara bertahap ke para pengguna di seluruh dunia.
+Rencananya, sebagaimana dirangkum dari IB Times, Kamis (16/2/2017), pada akhir tahun nanti para pengguna Facebook di seluruh dunia sudah akan kebagian giliran.
+Selain autoplay suara di video, Facebook turut memberikan pembaruan sekunder berupa peningkatan dimensi vertikal preview video dan dukungan playback picture-in-picture.

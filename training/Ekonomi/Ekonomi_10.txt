@@ -1,0 +1,13 @@
+JUDUL : BI Bentuk Central Counterparty Untuk Transaksi Derivatif
+
+TEMPO.CO, Jakarta - Bank Indonesia akan membentuk Central Counterparty (CCP) dalam beberapa waktu mendatang. Menurut Gubernur BI Agus Martowardojo, lembaga tersebut dibuat untuk memfasilitasi transaksi derivatif yang dilakukan oleh korporasi-korporasi dengan perbankan.
+"Dan tentu bank nanti akan rooting (transaksi) ini melalui CCP. Sekarang ini, semua negara sedang mempersiapkan CCP karena merupakan rekomendasi dari organisasi dunia," kata Agus saat ditemui di Kompleks BI, Jakarta Pusat, Jumat, 17 Februari 2017.
+
+Namun, Agus enggan menjelaskan secara detail kapan lembaga tersebut akan dibentuk. Saat ini, menurut Agus, BI masih berkoordinasi dengan stakeholder terkait untuk membicarakan rencana itu. "Supaya sepakat dengan framework dan sistem yang akan dibangun," tuturnya.
+Pada Juli 2016, BI telah menggelar seminar mengenai pembentukan CCP. Lembaga tersebut berfungsi mengurangi resiko sistemik karena memiliki tugas sebagai penyelenggara kliring, penjamin transaksi, dan penyelenggara proses manajemen risiko transaksi di pasar keuangan.
+
+CCP dapat berperan dalam transaksi derivatif yang dilakukan secara Over-the-Counter (OTC) atau di luar bursa. Dalam melakukan proses kliring dan penjaminan transaksi antar pelaku pasar, CCP menempatkan diri di antara pembeli dan penjual (contract replacement) atau dinamakan proses novasi.
+
+Pengambilalihan kontrak oleh CCP tersebut meminimalkan risiko kemungkinan terjadi gagal bayar antar pelaku pasar. Dalam hal ini, CCP berkewajiban menjamin keberlangsungan suatu transaksi. CCP pun dapat mengurangi risiko counterparty melalui proses multilateral netting.
+
+Selain itu, CCP juga dapat meningkatkan standardisasi manajemen risiko, mendorong efisiensi operasional, meningkatkan transparansi, dan memudahkan pengaturan dan pengawasan. Berbagai manfaat tersebut dapat mendorong peningkatan stabilitas sistem keuangan di pasar keuangan.

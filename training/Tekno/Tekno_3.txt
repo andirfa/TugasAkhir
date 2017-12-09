@@ -1,0 +1,21 @@
+Peneliti Bikin Baterai Cair, Bisa Awet 10 Tahun
+
+Baterai smartphone umumnya terbuat dari unsur lithium yang merupakan logam padat. Teksturnya lunak, bobotnya ringan, titik lelehnya rendah, dan bersifat reaktif.
+
+Sisi negatifnya, lithium memiliki masa hidup yang singkat. Performanya akan menurun seiring banyaknya pemakaian dan lama-kelamaan bisa merusak elemen lain di smartphone. 
+
+Selain itu, pemakaian lithium di baterai akan berdampak buruk pada sistem penyimpanan energi. Pasalnya, lithium merupakan sumber daya yang tak dapat diperbarui.
+
+Para peneliti di Penn State University sadar betul hal ini, sehingga mengembangkan alternatif baterai likuid atau cair yang dinamai baterai mengalir alias flow battery. 
+
+Baterai tersebut pada intinya menyimpan energi melalui air dan diklaim bisa memiliki masa hidup hingga satu dekade atau 10 tahun, sebagaimana dilaporkan Engadget dan dihimpun KompasTekno, Senin (13/2/2017). 
+
+Trik membuat flow battery adalah memodifikasi molekul yang terpatri dalam elemen penyusun baterai, seperti elektrolit, besi, dan viologen. Modifikasi dilakukan agar molekul bisa stabil, larut dalam air, dan tak mudah mengalami degradasi. 
+
+Ketika terlarut dalam air netral, solusi yang dihasilkan tak main-main. Flow battery cuma akan kehilangan 1 persen kapasitasnya setiap 1.000 siklus pemakaian. 
+
+Dalam bertahun-tahun, Anda bisa jadi akan merasakan performa baterai yang sama seperti pertama kali menggunakannya. 
+
+Selain awet dan tak mengancam keseimbangan energi di bumi, flow battery juga berisiko rendah. Baterai tak bakal meledak karena tak ada elemen yang memunculkan panas dan mengeluarkan ledakan api. 
+
+Dari harga, flow battery juga disebut-sebut lebih mahal, meski belum ada angka finansial yang disebutkan. Hingga kini baterai jenis itu masih terus dikembangkan dan belum jelas kapan akan dikomersilkan. 
