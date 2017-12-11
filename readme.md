@@ -13,11 +13,10 @@ Oleh : Andi Irfa (110313xxxx)
 |4. | Klasifikasi menggunakan KNN | (belum)|
 
 ## Preprocessing Dataset
-a. case folding
-b. tokenisasi
-c. stop word remover
-d. stemming
-| (sudah)
+1. case folding
+2. tokenisasi
+3. stop word remover
+4. stemming
 	
 
 ## Klasifikasi menggunakan KNN
