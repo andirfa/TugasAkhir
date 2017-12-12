@@ -37,7 +37,7 @@ def main():
 
     N = 5
 
-    file_generator = dataset_reader.get_files("training")
+    file_generator = dataset_reader.get_files("testing")
     total = 0
     true_count = 0
     # for i in xrange(3):
