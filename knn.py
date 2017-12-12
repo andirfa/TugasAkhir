@@ -12,6 +12,7 @@ def classify(model, query_tokens, n=3):
         for token, count in query_tokens.iteritems():
             query_value = calc_tf(count) * model.get_idf_value(token)
             model_value = model.get_tf_value(article, token) * model.get_idf_value(token)
+            # euclid distance
             distance = (query_value - model_value)**2
             total += distance
         # dont need to sqrt total, since we compare the lowest value

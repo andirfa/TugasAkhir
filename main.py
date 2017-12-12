@@ -35,33 +35,32 @@ def main():
     """
     model = do_processing()
 
-    N = 5
+    N = 10
 
-    file_generator = dataset_reader.get_files("testing")
-    total = 0
-    true_count = 0
-    # for i in xrange(3):
-    for article in file_generator:
-        # article = file_generator.next()
-        article_token = preprocessing.process(article.content)
-        best_n = knn.classify(model, article_token, N)
-        best_n_type = [x.corpus_type for x in best_n]
-        result_type = knn.pooling(best_n)
-        print '---', article.file_name,  '---'
-        print 'target->result:', article.corpus_type,'->', result_type
-        print 'pool:', best_n_type
-        print '------------------------------'
+    for i in xrange(2, N):
+        file_generator = dataset_reader.get_files("testing")
+        total = 0
+        true_count = 0
+        # for i in xrange(3):
+        for article in file_generator:
+            # article = file_generator.next()
+            article_token = preprocessing.process(article.content)
+            best_n = knn.classify(model, article_token, i)
+            best_n_type = [x.corpus_type for x in best_n]
+            result_type = knn.pooling(best_n)
+            # print '---', article.file_name,  '---'
+            # print 'target->result:', article.corpus_type,'->', result_type
+            # print N, 'pool:', best_n_type
+            # print '------------------------------'
 
-        total += 1
-        true_count += 1 if article.corpus_type == result_type else 0
+            total += 1
+            true_count += 1 if article.corpus_type == result_type else 0
 
-    print ''
-    print '>>>>>>>>>>>>>>>>'
-    print 'N:', N
-    print 'total:', total, 'true:', true_count, 'acc:', true_count * 100.0 /total, '%'
-    print '>>>>>>>>>>>>>>>>'
-
-    # print 'emuda', model.get_idf_value('emuda')
+        print ''
+        print '>>>>>>>>>>>>>>>>'
+        print 'K:', i
+        print 'total:', total, 'true:', true_count, 'acc:', true_count * 100.0 /total, '%'
+        print '>>>>>>>>>>>>>>>>'
 
 if __name__ == '__main__':
     main()
