@@ -24,7 +24,12 @@ def pooling(best_matches_dict):
     pool = Counter()
     for match in best_matches_dict:
         pool[match.corpus_type] += 1
-    return max(pool, key=pool.get) 
+    max_val = max(pool.values()) 
+    max_key = max(pool, key=pool.get) 
+
+    has_same_max_count = [1 for x in pool if pool[x] == max_val]
+    return max_key if len(has_same_max_count) < 2 else \
+        max(best_matches_dict, key=best_matches_dict.get).corpus_type
 
 if __name__ == '__main__':
     from collections import Counter
