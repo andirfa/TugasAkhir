@@ -1,17 +1,27 @@
+"""
+Script file that hold preprocessing steps of the TA,
+contains:
+- case folding (to lower)
+- non alphabet remover
+- stopwords remover
+- stem word
+- tokenizing
+"""
 import re
-import cmath
 from collections import Counter
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
+def turn_to_lower(article):
+    return article.lower()
+
 def remove_non_alphabet(article):
     # non alphabetic removal
-    article = re.sub('\n', " ", article.lower())
+    article = re.sub('\n', " ", article)
     article = re.sub(r'-', " ", article)
     article = re.sub(r'([a-z])-([a-z])', r'\1\2', article)
     article = re.sub(r'[^a-z|^ ]', '', article)
     return article
-    
 
 def remove_stopwords(article):
     stop_words_remover = StopWordRemoverFactory().create_stop_word_remover()
@@ -30,12 +40,9 @@ def tokenizing(article):
 
 
 def process(data):
+    article = turn_to_lower(data)
     article = remove_non_alphabet(data)
     article = remove_stopwords(article)
     article = stem_word(article)
     token = tokenizing(article)
     return token
-
-
-
-
